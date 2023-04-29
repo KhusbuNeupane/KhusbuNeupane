@@ -1,4 +1,4 @@
-# Khusss
+
 <h1 align="center">Hi 👋, I'm Khusbu Neupane</h1>
 <h3 align="center">BCA student</h3>
 
